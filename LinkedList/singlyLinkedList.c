@@ -121,11 +121,11 @@ while(1)
 {
 printf("1. Add at end\n");
 printf("2. Insert at Top\n");
-printf("3. Inert at Position\n");
+printf("3. Insert at Position\n");
 printf("4. Remove\n");
 printf("5. traverse Top To Bottom\n");
 printf("6. traverse Bottom To Top\n");
-printf("7. Add at end\n");
+printf("7. Exit\n");
 printf("Enter Your choice : ");
 scanf("%d",&ch);
 fflush(stdin);
